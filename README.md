@@ -4,6 +4,9 @@
 <img src="image.png" /> 
 
 ---
+## Stack
+- **React-Native**
+- **JavaScript**
 
 
 ## Project Structure
